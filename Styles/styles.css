@@ -1,7 +1,10 @@
 
 body {
-
   background-color:azure;
+}
+.contenedor{
+  display: flex;
+  align-items: center;
 }
 h1{
   color:cornflowerblue;
